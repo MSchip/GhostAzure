@@ -47,6 +47,7 @@ config = {
     // ### Production
     // When running Ghost in the wild, use the production environment
     // Configure your URL and mail settings here
+    //Testing
     production: {
         url: 'http://mikeschippert.azurewebsites.net',
         mail: {},
